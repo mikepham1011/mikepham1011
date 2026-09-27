@@ -1,11 +1,9 @@
 ### Hi there, welcome to mikepham1011's Github profile 👋 Check out my stats ℹ️
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mikepham1011&show_icons=true&theme=merko)](https://github.com/mikepham1011)
+[![Stats](https://github-stats-extended.vercel.app/api?username=mikepham1011&show_icons=true&count_private=true&theme=merko)](https://github.com/mikepham1011)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mikepham1011&theme=merko&layout=compact)](https://github.com/mikepham1011)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikepham1011&theme=merko&layout=compact)](https://github.com/mikepham1011)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikepham1011&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=mikepham1011&theme=merko)](https://github.com/mikepham1011)
 
 <!--
 **mikepham1011/mikepham1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
